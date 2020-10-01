@@ -5,6 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+this product is usefull to save something for long period of time
 
 A few resources to get you started if this is your first Flutter project:
 
